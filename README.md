@@ -3,4 +3,4 @@ A demo app for React and Django Deployment
 
 docker-compose down
 docker-compose up -d
-# react-django-demo-app-MattsDevops
+# react-django-demo-app-MattsDevop
